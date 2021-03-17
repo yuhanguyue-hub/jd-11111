@@ -18,7 +18,7 @@ on:
 
     repository_dispatch:
 
-        types: jd_cash
+        types: jd_crazy_joy_coin
 
 jobs:
 
